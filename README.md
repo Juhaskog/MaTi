@@ -1,2 +1,2 @@
 # MaTi
-Maanatain ja tiistain harjoitusten dokumentointi.
+Maanantain ja tiistain harjoitusten dokumentointi.
